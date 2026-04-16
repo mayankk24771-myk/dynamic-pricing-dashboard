@@ -25,7 +25,8 @@ Analyze how pricing impacts demand, revenue, and competitiveness, and identify o
 - Price sensitivity varies across categories
 
 ## 📊 Dashboard Preview
-![Dynamic Pricing Dashboard](images/dashboard.png)
+
+![Dynamic Pricing Dashboard](deliverables/dashboard.png)
 
 ## 🚀 Business Impact
 - Helps optimize pricing strategy

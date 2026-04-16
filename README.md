@@ -26,7 +26,14 @@ Analyze how pricing impacts demand, revenue, and competitiveness, and identify o
 
 ## 📊 Dashboard Preview
 
-![Dynamic Pricing Dashboard](deliverables/dashboard.png)
+![Dynamic Pricing Dashboard](deliverables/dashboard.png)   
+
+## 👤 Author
+Mayank Kumar  
+Data Analyst  
+
+🔗 LinkedIn: https://www.linkedin.com/in/mayank-kumar123/
+
 
 ## 🚀 Business Impact
 - Helps optimize pricing strategy
